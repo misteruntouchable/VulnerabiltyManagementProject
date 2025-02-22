@@ -70,11 +70,57 @@ create a place the VM within a virtual network. If you dont have one create one.
 <p align="center">
     Next, let's create a Vulnerability Managment Scan in Tenable  <br/>
 <img src="https://github.com/user-attachments/assets/d9c3019e-930a-4b3c-92f0-6cb4cc061f6d".png" height="80%" width="80%" "/>
-<p align="center"> Tenable Vulnerability Management is used as the main operating interface and the Tenable Scan Engine is used 
-                   to target and scan Microsoft Azure virtual machines. So once we have created a Tenable account we need to 
-                   target the VM that we create in Azure. 
+<p align="center"> Tenable Vulnerability Management is used as the main operating interface and the Tenable Scan Engine is
+                   used to target and scan Microsoft Azure virtual machines. So once we have created a Tenable account we need 
+                   to target the VM that we create in Azure.We want to configure a tenable scan to look for all the basic 
+                   vulnerabilities.
  
 <br>
+
+<br>
+
+<br />
+
+<p align="center">
+    Initial Scan <br/>
+<img src="https://imgur.com/QkbGnf1.png" height="80%" width="80%" "/>
+<p align="center"> After your first scan you should go thorugh the vulnerabilites of the scan. And go through the solutions of 
+                   how to remediate the issue. Then go back to the VM and first go into WIndows Updates and run it. Update and 
+                    restart. <br>
+
+
+ <br>
+
+<br />
+
+<p align="center">
+    Second Scan <br/>
+<img src="https://imgur.com/C39JbaA.png" height="80%" width="80%" "/>
+<p align="center"> After you restart you VM run and second scan in Tenable and and go through the vulnerablites that you might 
+                   existing after the the initial scan. Go to the VM again make the necessary updates in Windows on other 
+                   vulnerabilities that you may still existed after your inital scan. Repeat this method until you have fully 
+                   updated.  <br>
+                   
+
+
+### [Let's discuss STIGS?] 
+
+     STIGS are Security Technicial Implentation Guides, within a scanning process one of the vulnerability details that exist is a feature 
+     called STIGS. These are configuration standards that provide prescriptive guidance on how to secure operating systems, network devices, 
+     software, and other IT systems. They serve as a secure configuration standard to harden systems against cyber threats.
+
+
+<p align="center">
+     Example of STIGS <br/>
+<img src="https://github.com/user-attachments/assets/b4393be5-5f17-4b86-8ad2-54216531ef07".png" height="80%" width="80%" "/>
+<p align="center">   <br>     
+
+                 
+
+
+                   
+                   
+
 
    
 
