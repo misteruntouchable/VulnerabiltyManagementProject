@@ -63,7 +63,7 @@ create a place the VM within a virtual network. If you dont have one create one.
                     "LocalAccountTokenFilterPolicy -Value 1 -Type DWord -Force] <br/>. After you have import in the script 
                      enter and restart the VM.
  
-<br 
+<br>
 
 <br />
 
@@ -74,7 +74,7 @@ create a place the VM within a virtual network. If you dont have one create one.
                    to target and scan Microsoft Azure virtual machines. So once we have created a Tenable account we need to 
                    target the VM that we create in Azure. 
  
-<br 
+<br>
 
    
 
