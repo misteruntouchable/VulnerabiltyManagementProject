@@ -105,9 +105,10 @@ create a place the VM within a virtual network. If you dont have one create one.
 
 ### [Let's discuss STIGS?] 
 
+        
      STIGS are Security Technicial Implentation Guides, within a scanning process one of the vulnerability details that exist is a feature 
-     called STIGS. These are configuration standards that provide prescriptive guidance on how to secure operating systems, network devices, 
-     software, and other IT systems. They serve as a secure configuration standard to harden systems against cyber threats.
+     called STIGS. These are configuration standards that provide prescriptive guidance on how to secure operating systems, network devices,
+     software, and other IT systems. They serve as a secure configuration standard to harden systems against cyber threats. 
 
 
 <p align="center">
