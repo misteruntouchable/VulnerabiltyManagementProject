@@ -113,7 +113,18 @@ create a place the VM within a virtual network. If you dont have one create one.
 <p align="center">
      Example of STIGS <br/>
 <img src="https://github.com/user-attachments/assets/b4393be5-5f17-4b86-8ad2-54216531ef07".png" height="80%" width="80%" "/>
-<p align="center">   <br>     
+<p align="center">  In addressing, as you go through scan results there may vulnerabilties that may be considered as high, medium, and low. 
+                    in addressing the high vulnerabilites as you analyze each one there may exist failed vulnerabilites with ID numbers 
+                    next to it advice on remediation procedures. If one is unfamiliar with the ID numbers and how to use it with 
+                    remediations you can use an app called Stig Viewer.<br>   
+
+   <p align="center">
+     Stig Viewer<br/>
+<img src="https://imgur.com/1XkS41E.png" height="80%" width="80%" "/>
+<p align="center"> Stig Viewer will assist in clarifying what these ID numbers to will help with the ease of remeditation of your VM. <br> 
+
+   In conclusion, Vulnerability Managment may be tedious but with the help of Scanning tools like Tenable the excersise of maintianing and 
+   securing network devices remotely becomes easier. 
 
                  
 
